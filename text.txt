@@ -4,3 +4,5 @@ https://codepen.io/Manoz/pen/pydxK
 Traitement des data dans modal 
 https://www.it-swarm.dev/fr/javascript/comment-savoir-quel-bouton-est-clique-lorsque-le-modal-bootstrap-se-ferme/1051462641/
 
+get id user on session https://symfonycasts.com/screencast/symfony3-security/authenticator-get-user-check-credentials
+
