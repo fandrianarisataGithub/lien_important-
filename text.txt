@@ -12,3 +12,10 @@ bien maitriser les users selon leurs rôle : https://www.remipoignon.fr/symfony-
 
 username = fandrianarisata2@gmail.com 
 password codeheroku&2608
+
+
+Envoie de mail au cas d'un oubli de mot de passe 
+
+https://blog.dev-web.io/2018/11/05/symfony-4-gestion-utilisateurs-sans-fosuserbundle-v2018-chapitre-3/
+
+github : https://github.com/gponty/userDemo2018
