@@ -23,4 +23,4 @@ github : https://github.com/gponty/userDemo2018
 
 phpexcel : https://phppot.com/php/import-excel-file-into-mysql-database-using-php/
 
-PHPSpreadSheet : https://medium.com/@cedric.thibault/working-with-xls-format-in-symfony-4-16e695ec484b
+PHPSpreadSheet : https://medium.com/@cedric.thibault/working-with-xls-format-in-symfony-4-16e695ec484b  et   http://aroundthefire.io/phpspreadsheet
