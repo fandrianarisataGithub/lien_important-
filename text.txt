@@ -27,3 +27,6 @@ PHPSpreadSheet : https://medium.com/@cedric.thibault/working-with-xls-format-in-
 
 ******** utilisation de fosuser bundle****** 
 link : https://www.mezganisaid.com/blog/article.php?titre=Comment%20installer%20FOSUserBundle%20avec%20Symfony%204
+
+******** résumé stat ********
+link : http://www.jybaudot.fr/Probas/binomexcel.html
