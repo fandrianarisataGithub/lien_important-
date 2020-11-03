@@ -31,4 +31,4 @@ link : https://www.mezganisaid.com/blog/article.php?titre=Comment%20installer%20
 ******** résumé stat ********
 link : http://www.jybaudot.fr/Probas/binomexcel.html
 **** fosuserb******
-https://github.com/FriendsOfSymfony/FOSUserBundle/blob/master/Resources/doc/index.rst
+link = https://github.com/FriendsOfSymfony/FOSUserBundle/blob/master/Resources/doc/index.rst et https://ourcodeworld.com/articles/read/794/how-to-install-and-configure-fosuserbundle-in-symfony-4
